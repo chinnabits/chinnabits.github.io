@@ -1,0 +1,17 @@
+
+body {
+  background-color: white;
+}
+ 
+h2 {
+  color: red;
+  margin-left: 20px;
+}
+
+p {
+    color: blue
+}
+
+th {
+    color: green
+}
